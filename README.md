@@ -52,8 +52,5 @@ MySQL Database
 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-License
-This project is licensed under the MIT License.
-
 Author
 Eshwar k
