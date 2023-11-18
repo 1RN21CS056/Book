@@ -3,7 +3,7 @@
 This is a simple Book Shop Management System implemented in Java with a MySQL database. The system allows users to perform basic operations such as adding, searching, updating, and deleting books. Additionally, it provides a feature to generate a report of all books in the database.
 
 # Features
-# Add Book: Add a new book to the database with title, author, and price.
+Add Book: Add a new book to the database with title, author, and price.
 
 Search Book: Find a book in the database by title.
 
@@ -64,9 +64,6 @@ MySQL Database
 
 # Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
-
-# License
-This project is licensed under the MIT License.
 
 # Author
 Eshwar k
