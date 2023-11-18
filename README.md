@@ -12,7 +12,7 @@ Generate Report: Display a report of all books in the database.
 
 Setup
 Database Configuration:
-MySQL database is used for this project.
+MySQL database is used for this project.<br>
 Create a database named bookshopmanagement using the provided SQL script.
 
 Running the Application:
