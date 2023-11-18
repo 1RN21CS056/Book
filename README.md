@@ -16,16 +16,21 @@ Generate Report: Display a report of all books in the database.
 # Setup
 # Database Configuration:
 MySQL database is used for this project.
+
 Create a database named bookshopmanagement using the provided SQL script.
 
 # Running the Application:
 Compile and run the BookShopManagementSystem class.
+
 Follow the on-screen instructions to interact with the system.
 
 # Database Schema
 The database schema includes a table named bookshop with columns:
+
 Book_title (Title of the book)
+
 Book_Author (Author of the book)
+
 Book_price (Price of the book)
 
 # Usage
