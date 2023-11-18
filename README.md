@@ -34,27 +34,32 @@ Book_Author (Author of the book)
 Book_price (Price of the book)
 
 # Usage
-# Adding a Book:
+Adding a Book:
+
 Choose option 1 from the menu.
 
 Enter the title, author, and price of the book.
 
-# Searching for a Book:
+Searching for a Book:
+
 Choose option 2 from the menu.
 
 Enter the title of the book to search.
 
-# Updating a Book:
+Updating a Book:
+
 Choose option 3 from the menu.
 
 Enter the title, new author, and new price for the book.
 
-# Deleting a Book:
+Deleting a Book:
+
 Choose option 4 from the menu.
 
 Enter the title of the book to delete.
 
-# Generating a Report:
+Generating a Report:
+
 Choose option 5 from the menu.
 
 # Dependencies
